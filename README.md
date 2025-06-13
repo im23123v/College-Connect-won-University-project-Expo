@@ -1,4 +1,4 @@
-# 📘 College Connect AI – README
+# 📘 College Connect (Won University ProjectExpo)
 
 **College Connect AI** is an intelligent digital mentor designed to guide engineering students across all branches and years. Whether you're a beginner or an advanced learner, College Connect helps you navigate your academic and career journey with personalized learning paths, project suggestions, resources, and more.
 
